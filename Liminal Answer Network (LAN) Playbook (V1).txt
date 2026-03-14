@@ -1,0 +1,898 @@
+﻿LIMINAL ANSWER NETWORK (LAN)
+PLAYBOOK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DOCUMENT INFORMATION
+Prepared by Kathryn Montilla
+Last Updated on Jan 19, 2023
+Document is in FINAL status
+Objective
+Objectives of the Liminal Answer Network Playbook (LAN):
+1. Outline LAN’s go-to-market plan, offerings, and benefits
+2. Understand the operational processes to provide the highest quality service to our clients efficiently 
+3. Provide visibility and transparency for all Liminal team members to understand this new offering as it relates to their current function and for the growth of the business
+4. Be part of an onboarding package for new Liminal team members to get up to speed with offerings, structure and process quickly 
+
+
+This Playbook will enable you to answer the following:
+* What is the LAN and what are the service offerings, benefits, and features?
+* Why would our clients be interested in using the LAN? 
+* What is our pricing for the services?
+* How does the LAN interface and supplement our Advisory and Research practices?
+* What are the detailed processes that we follow?
+* Who’s who in LAN and their roles/responsibilities?
+
+
+
+
+________________
+Overview
+Mission Statement
+To solve the world’s toughest challenges by accessing the greatest network of experts
+
+
+What is it?
+The Liminal Answer Network is a multi-sided platform consisting of vetted experts, Liminal research and advisory staff, and our core client base of investors, executives, and product managers. Unlike traditional expert networks, we are providing deliverable-based engagements focused on asking the right questions on the customer’s behalf and extrapolating actionable insights and high-impact transactional strategies from those in-depth conversations. Our LAN engagements can lead directly into traditional market intelligence projects with market sizing, competitive benchmarking, and growth analysis.
+
+
+How does it work?
+The Liminal Answer Network will deliver value by answering the most important questions our clients have by hosting focused conversations with a select group of vetted experts. Unlike a traditional expert network where you simply get access to “experts” and unlike a traditional consulting engagement that can span a wide scope, this hybrid engagement style focuses on delivering concise and referenceable insights.
+
+
+Our customers will work with a dedicated account manager (usually their Managing Director) to define the project scope, timeline, and appropriate deliverables. The Liminal Advisory team will source the right experts for the project, orchestrate and perform the VOC calls, and formulate the final client report. Overtime, a standalone Research function will manage these tasks.
+
+
+Another core feature in LAN is the interaction dynamics between Liminal and vetted experts. Traditional expert networks rely on maintaining a “middle-man” position between clients and experts. This dynamic necessitates a very transactional communication style and cadence. We will build loyalty amongst the network members through active communication, mutual loyalty and respect, invitation to events, provide access to media and other eminence-building activities.
+
+
+A beta version will be released to existing Liminal membership customers, alpha to existing non-member customers, and gold to the greater expert network market. Detailed implementation plans per version can be found in our PRD. 
+
+
+We anticipate our approach will provide better stakeholder experiences for customers, experts, and the Liminal team. 
+* Customers - The curated project structure ensures that they achieve their objectives efficiently and cost effectively.
+* Experts - By only engaging a set number of vetted experts in different topic areas, we can provide experts with access to more opportunities to make money, not bog them down with calls with strangers, and provide them additional personal brand-building opportunities
+* Liminal - We gain valuable insight outside of the client deliverables through recordings and transcripts that will be compiled internally for future reference. 
+
+
+Buyer Personas
+* Private Equity Investors
+* Hedge Funds Seeking Investment Insights
+* Senior Executives Validating GTM
+* Corporate Strategy Teams
+* Product and UX Teams
+
+
+Benefits for our Customers
+* Get answers, not just the same regurgitated information - the LAN hybrid expert interview / research-based deliverable cuts through the noise associated with traditional expert network calls and provides actionable insights for our clients
+* Get access to niche industry experts that would take a leading network longer to reach 
+* Improved experience with a consistent point of contact at Liminal who understands their unique business needs and has institutional context
+* Deliverables that can be “lifted and shifted” directly into board-level materials
+
+
+Benefits for Experts
+* Obtain another source of income
+* Create and build their brand equity
+* Feel empowered to share their expertise and “nerd out” on topics that require a depth of knowledge and expertise to understand
+* For top experts - Liminal swag, access to Link, and tickets to our events
+
+
+Benefits for the Liminal Advisory
+* Obtain a new profitable revenue stream
+* Increases the number of “in-network” vetted experts to call for short-term projects
+* Improve overall efficiency and effectiveness of our advisory services by
+   * Reducing internal reliance on external expert networks
+   * Reducing total project time spent on VOC
+   * Increasing quality of advisory deliverables 
+* Be a leading expert network for the domains Liminal specializes within 
+* Build loyalty amongst clients and experts 
+* Help experts create and build brand equity
+
+
+________________
+Offering and Pricing
+Summary of Offers and Pricing
+
+
+Offering
+	Discovery Brief
+	Validation Brief
+	Market Insights Report
+	Market Intelligence Report
+	# of questions answered
+	3
+	5
+	8
+	10
+	# of interviews w/ experts
+	8-10
+	12-15
+	25-30
+	25-30
+	Approx timing (weeks)
+	2-3 weeks
+	2-3 weeks
+	3-4 weeks
+	4-5 weeks
+	Question scoping and design support
+	x
+	x
+	x
+	x
+	Interview design support
+	x
+	x
+	x
+	x
+	Call transcripts
+	x
+	x
+	x
+	x
+	Summarized call notes 
+	x
+	x
+	x
+	x
+	Survey design support
+	
+
+	
+
+	x
+	x
+	Multi-question industry survey (n = 75)
+	
+
+	
+
+	x
+	x
+	Market overview and vendor list
+	
+
+	
+
+	x
+	x
+	Market sizing (TAM/SAM)
+	
+
+	
+
+	x
+	x
+	Competitive benchmarking
+	
+
+	
+
+	
+
+	x
+	Market dynamics and growth areas analysis
+	
+
+	
+
+	
+
+	x
+	Price
+	$40,000
+	$70,000
+	$115,000
+	Starting at $200k
+	
+
+
+
+
+
+Discovery Brief
+Used to define a market value proposition with the goal of answering questions about a target market.
+
+
+Validation Brief
+Used to answer and validate specific questions and problem statements that the client has defined with regards to a specific thesis, product idea, or investment.
+
+
+Market Insights Report
+Through a comprehensive survey and set of interviews with industry experts, this report seeks to answer fundamental questions regarding a specific market. The report includes the answers to 8 questions, along with results from an industry survey, market overview, and a vendor list.
+
+
+Market Intelligence Report
+Through a comprehensive survey and set of interviews with industry experts, this report provides insight on a potential target investment or market segment. In addition to an executive summary with answers to specific questions, the report includes market sizing, competitive benchmarking, market dynamics, penetration, and overall growth opportunity.
+
+
+Individual Interviews and Surveys
+If a client requests individual expert interviews, they are priced at $2,500 per interview. Ad hoc surveys are priced at cost + T&E. 
+
+
+Report templates can be found in the LAN template folder in the LAN project Google drive.
+Resourcing Expectations
+Because these are fixed fee deliverables, it is critically important that we limit resourcing as much as possible. While our goal is to get to 50% call reusability, we expect to land closer to 15-25% for the first year or two.
+
+
+We based the pricing on the following assumptions. Any change to the assumptions should result in a change in pricing for the report:
+Hours per Report (fixed PMO)
+	15
+	Hours per Question for Analysis
+	10
+	Hours per Call w Summary
+	4
+	No. Questions per Discovery Report
+	3
+	No. Questions per Validation Report
+	5
+	No. Questions per Market Insights Report
+	10
+	No. Questions per Intel Report
+	10
+	No. Calls per Discovery Report
+	10
+	No. Calls per Validation Report
+	20
+	No. Calls per Market Report
+	30
+	No. Calls per Intel Report
+	30
+	No. Surveys per Market Report
+	1
+	No. Projects per Year
+	50
+	No. Calls per Project
+	5
+	
+
+Total time (hours) spent per deliverable:
+
+
+	
+
+	Staff
+	
+
+	Report
+	PMO
+	Calls
+	Analysis
+	Total
+	Discovery
+	10
+	40
+	30
+	80
+	Validation
+	15
+	80
+	50
+	145
+	Insights
+	20
+	120
+	100
+	240
+	Intelligence
+	30
+	150
+	100
+	280
+	
+
+The full model can be found here
+Processes
+High Level Process Flow 
+Lucidchart link
+  
+
+
+
+
+
+Project Delivery - Detailed Process (Advisory Team)
+This section details the step by step process steps from the starting point of a client requesting LAN work to the Liminal team and ending with a completed engagement. 
+1.  Client Requests LAN Work
+The process of a client requesting a LAN engagement starts upstream through Marketing and Business Development/Sales efforts by the Advisory Managing Director to target specific persona within our Memberships and existing client base. Once a potential client is identified, the Sales Team/Account Manager is engaged to scope the project work and begin the contracting process. 
+
+
+All new deals are tracked in Hubspot, our CRM, starting at the Prospecting stage, which is the first touch point (call, email, meeting, etc) regarding the particular engagement. Please work with the Advisory Managing Director to enter specific deals into the Hubspot pipeline. 
+        
+Outputs: Deal in Hubspot at the appropriate stage and with all necessary qualification information
+2. Scope the Project
+The purpose of this stage is to work with the client to determine their goals through identifying the specific questions that the client seeks to answer.  Key participants in this stage are:
+* Account Manager
+* Advisory Managing Director
+* Advisory Manager/Project Lead
+
+
+The Advisory Managing Director (MD) and Project Lead begins the scoping process by working with the client to understand their goals, identify the questions the client needs answers to, and determine the type of report required to achieve their goals. As part of this stage, the Account Manager would also provide a summary of the report offering, the price list, and determine approximate timing for the engagement. 
+
+
+Once this information is obtained, the MD completes a proposal that corresponds to the report type needed by the client. A Proposal is a contract that needs to be completed prior to the start of the engagement that defines the scope of the work, cost, schedule, and team members involved in the engagement.
+
+
+The links to the proposal templates are:
+Discovery Report Proposal Template
+Validation Report Proposal Template
+Market Insights Report Proposal Template
+Market Intelligence Report Proposal Template
+
+
+*Note: Any changes in scope or pricing must be discussed and approved with the CEO before proceeding.*
+
+
+Output: Completed draft proposal
+3. Execute Legal and Financial Contracts
+There are 3 contracts needed for every engagement: a Master Services Agreement (MSA), Proposal, and Task Order.
+
+
+Each client requires an executed MSA (Master Services Agreement), which specifies generic terms such as payment terms, product warranties, intellectual property ownership, dispute resolution, geographic location and venue of law and  other terms and conditions that will govern all current and future activities and responsibilities between Liminal and the client.. The Liminal standard MSA can be found here. If an MSA is signed, the MD just has to prepare the Proposal and Task Order to execute the engagement. If the MSA is not yet signed, then all three documents must be drafted for execution. 
+
+
+The links to the task order templates are:
+Discovery Report Task Order
+Validation Report Task Order
+Market Insights Report Task Order
+Market Intelligence Report Task Order
+
+
+Once all relevant contracts are drafted, the MD sends it to the CEO for review. Once the CEO approves, the MD uploads all documents to Docusign for signatures. An engagement is fully executed if all contracts are signed. All contracts must be executed before starting work. 
+
+
+All invoicing will be handled by the Finance team (finance@liminal.co) in coordination with the client MD. Upon signature, the MD  uploadS the signed versions of the contracts into the HubSpot deal, the client folder on Drive, and into the FPA slack channel. Additionally, the MD will create a task in Asana assigned to Aekkamol due immediately with the contract payments information and signed agreements attached.
+
+
+After the contract has been executed and properly communicated, the MD moves the deal to Closed Won in Hubspot.
+
+
+
+
+Output: Executed Legal and Financial Contracts, deal is in Closed Won stage in Hubspot
+4. Kick-off the Project
+This step is to organize and successfully kick off the project internally and with the client. The Advisory Director/MD selects a Project Lead to lead the effort and begins the engagement work by:
+
+
+* Reviewing the Proposal and any other relevant documents to familiarize themselves with the goals and deliverables of the engagement (e.g., questions, report type, # of interviewers, etc.)
+* Reviewing  the standard expert MSA as a reminder of standards for the engagement (e.g. experts cannot engage in projects about their own company, experts may not consult with known competitors of their current company, experts may not share confidential information or disclose the project or identity of client, etc.)
+* Selecting a project name
+* Gathering the team that will execute against the deliverables
+* Navigating to the appropriate Asana Answer Network Project Template
+* Making a copy of the Asana Project Template (click on Use Template) and create a new project
+* Updating the Project Template with the appropriate tasks, assignees, and due dates
+* Creating a project in Slack using the project team name
+* Creating a project Google folder in the LAN Folder to store all materials
+* Adding all relevant team members to Asana, Slack, and Google
+* Creating a Project Charter to be housed in the project Google folder
+* Hosting an internal kick off meeting with the project team at least 48 hours before the first client meeting.
+* Creating a Calendly to capture the team’s availability for VOCs
+
+
+For more information, refer to the Liminal House Rules for additional information on how we work on projects.
+
+
+The Project Lead also provides the client with a breakdown of the project plan via email. This is a recap of the Proposal, which includes:
+* Objectives of the project
+* Timeline
+* Team involved
+* Details around the questions being answered
+In addition to the scope, the Project Lead offers to:
+* Get on a call to run through the scope again (this is helpful if there was a delay of 2+ weeks between scoping and contract signature)
+* An interim update - most of our LAN projects are quick hits (3 weeks), but some clients may request a 30-45 minute call after the first week to review early findings
+Outputs: Internal project kick-off and email to client recapping the Proposal
+
+
+5. Design the Interview Guide 
+The goal of the Interview Guide is to help the Advisory team prepare for the expert interviews by identifying the relevant questions to ask each expert persona during the expert interviews. The Interview Guide is also structured so that VOC raw notes can be captured directly onto the document.
+
+
+To begin, the Project Lead uses the Question Bank to review the relevant main questions and logic questions. Then, an Interview Guide for each expert personas being interviewed. The Interview Guides developed will be used during the expert call (see step 12: Conduct Interviews), with an Interview Guide amended and notes captured for each call.
+Outputs: Draft Interview Guides for each persona 
+
+
+6. Review Past Materials
+We aim to leverage "in-network" experts at least 50% of the time, while leveraging GLG to fill in gaps in our expert network, if needed. We also seek to re-use call notes as possible to save on costs and increase our efficiency. 
+To review past materials related to the engagement, navigate to the VOC Notes tab in the Main Base section of Airtable and search by expert, description of interview, solution segment, topics discussed, or industry focus. As our Airtable information is dynamic, note that search categories may change. As a best practice with any project, including LAN projects, the Project Lead should reach out to other Project Leads of similar projects for insights.
+Output: Reusable call notes from previous engagements
+7. Design the Survey
+For Market Insights and Market Intelligence Engagements, a survey of at least 75 experts must be conducted. We currently use GLG to complete a survey, takes approximately 2 weeks, and costs vary between $7,000 - $15,000 depending on the number of people surveyed.  Prior to engaging GLG, the Project Lead must obtain sign off from the MD. At this point, Principals should also be engaged to leverage their expertise to help design the questions and define the criteria. 
+
+
+Output: Survey Designed 
+8. Determine Survey Participants
+As part of designing the survey, it is critical to the success of the survey results that the appropriate survey participants are selected by GLG. The Project Lead should leverage the expertise of our Principals to help define the survey participants. Once the survey questions have been designed and criteria defined, the Project Lead reaches out to the GLG representative with the criteria (demographic, number of participants needed, expertise, timelines, etc.) and survey questions. 
+Output: Survey criteria defined and GLG engaged
+9. Launch Survey
+Once GLG is engaged:
+* GLG does the “programming,”  which turns the questions into a survey
+* GLG sends out to test group and provides results back to Liminal
+* Project Lead review results of test group to ensure we get the right responses we need
+* Project Lead amends questions, if needed
+* GLG sends to rest of the group
+* Project Lead received full results of the survey
+
+
+Output: Survey sent to experts and results are sent back to the Project Lead
+10. Identify and Search for Interviewees
+The People tab in the Main Base Airtable contains our current set of active Experts.  When a LAN project is signed, the Project Lead works with the Principals to review the current set of experts to see if any meet the criteria to deliver the project. The aim is to use at least 50% of active internal LAN experts in any engagement.
+
+
+The Project Lead identifies if an Expert Services Agreement has been signed by the expert by looking if the MSA/MCA checkbox is checked off. If an expert has not signed either the Expert Services Agreement or a Master Consulting Agreement (MCA), the Project Lead works with the Principal to vet, onboard, and get an Expert Services Agreement signed. The Liminal standard Expert Services Agreement can be found here. Details steps to vetting, onboarding, and managing experts can be found in steps 23, 245, and 25.
+
+
+If additional experts are needed:
+* Project Leads works with the Principals to create a list of specifications and demographic requirements for missing/desired experts
+* Project Lead lets the MD know additional access is needed to experts (providing them with the list of requirements created)
+* MD and Principals should try and fill the list in with experts that are not currently in the expert list. All remaining gaps will be filled by GLG
+* MD will work with the Liminal GLG POC to outline a scope of work leveraging the requirements list
+* Project Lead then takes over for the Managing Director for all interview scheduling and call management
+
+
+The output of this step is a curated list of experts that is appropriate for the project based on the expert criteria defined. The expert list is stored in the Google project folder, just like all project deliverables. Inevitably, issues like scheduling or expert fit will occur, therefore best practice is to select 10% more experts than needed for the engagement so there is room for flexibility.
+
+
+Output: Curated list of experts for the project
+11. Schedule Interviews
+Using the outputs from the previous step, the Project Lead (with guidance from the MD) begins to contact the experts to schedule and conduct the interviews. Best practice is to provide the interviewer with the Calendly developed in the Kickoff step to provide the team’s availability for VOC calls.
+12. Conduct Interviews
+Once an expert accepts the interview, the Project Lead will send a confirmation email that includes:
+* Calendar invitation
+* Topic of the call
+* How to prepare for the call
+* Compliance reminder
+* Method of call 
+
+
+Use the following template to amend and send to the expert. 
+
+
+Prior to the interview, the interviewer prepares an Interview Guide for each expert call, based on the persona of the expert. Use the LAN Interview Best Practices document for information on how to prepare for the interview.
+
+
+As the interview begins, the interviewer ensures the call is recorded so that the audio recording can be transcribed using Trint. During the interview, the interviewer or scribe takes notes right on the Interview Guide. All completed Interview Guides and transcribed notes should be stored in the project Google drive.
+
+
+The Project Lead keeps track of paid experts (non-GLG) used in the engagement, particularly the project name, day, time, and duration of the interview. Once the call is complete, the Project Lead informs the finance team by sending an email to finance@liminal.co with the following expert information:
+* Name
+* Project that the expert call was done
+* Email address
+* Record in Airtable 
+* Hourly rate
+* Duration of call
+* Amount to pay to expert
+
+
+The Finance team keeps track of expert payments in the Expert Payments tracking sheet. The next step is to create a record of the expert as a consultant in Justworks or confirm that the expert is set-up in Justworks. Once the expert is set-up in Justworks with their payment details, Finance schedules payment for the expert through Justworks, and sends a confirmation of payment to the expert.  Target SLA for payment: within 10 days of a call.
+
+
+Outputs: Completed interview notes and audio recording of each interview, payment details to Finance, payment to the expert
+13. Convert and Cleanse Transcripts
+The Project Lead ensures that an audio recording for each call is obtained  and converted to a written transcript by using Trint. To cleanse the transcripts, review the completed interview notes, transcription, and cleanse for any proprietary or out of scope information.
+
+
+Cleansed transcripts should be uploaded to the client folder. Cleansed and non-cleansed notes should be uploaded to the VOC table in the Main Base on Airtable
+
+
+        Output: Cleansed transcripts for each interview
+
+
+14. Create Call Summary
+Select the appropriate report template and navigate to draft 1 page summaries for each call. Each summary includes:
+* 3-5 key takeaways (TL;DR) from the call
+* Blinded biographical information of the expert
+* Direct quotes that support the questions being answered for the engagement
+
+
+Output: 1 page summary slide for each expert interview 
+15. Draft Survey Summary Materials
+For a Market Insight or Market Intelligence report, once GLG provides the results of the survey, the engagement team creates a summary of the information from the survey including:
+* Chart for each question
+* Key findings of the survey based on the questions for the engagement
+
+
+        
+        Output: Survey summary and analysis slides
+16. Draft Market Overview and Vendor List
+For a Market Insight or Market Intelligence report, the project team drafts a market overview using data from the surveys, expert calls, and Liminal’s proprietary intelligence (see Link, secondary market research, Liminal research reports on the segment, information from our Principals, Principal Advisors, MDs, etc). This market overview includes market sizing of the industry or segment in question by the client and a list of key vendors in the space.
+
+
+Output: Market overview, market sizing/TAM, vendor list slides
+17. Draft Competitive Benchmarking, Market Dynamics, and Growth Areas
+For a Market Intelligence report, the project team includes deeper analysis on the market or segment in question by drafting competitive benchmarking, market dynamics, and growth areas.  The project team creates an evaluation framework and uses data from surveys, expert calls, and Liminal’s proprietary intelligence in order to draft the benchmarking, market dynamics, and growth areas sections of the report.
+
+
+Output: Competitive benchmarking, market dynamics, growth areas slides
+
+
+18. Draft Executive Summary
+Using information gathered for the engagement, the team drafts the executive summary which includes:
+* Report scope (in this order: project objective, duration, questions asked, interview personas, number of interviews, survey overview)
+* Key findings for each question to be answered, Limina’s view, and confidence on the answer
+* Key takeaways
+
+
+Output: Executive summary slides
+19. Draft Report
+By now, the team has already created key slides for the engagement. Still using the appropriate report template, the team compiles the full report which includes:
+* Title page
+* Disclaimer
+* Report scope (in this order: project objective, duration, questions asked, interview personas, number of interviews, survey overview)
+* Research/data summary (list of interviews, demographics, survey overview)
+* Questions and answer analysis
+* Recommendation for additional questions based on the findings
+* Section 1 - Question Details
+   * One-pager for each question with the key takeaways, the key quotes, our analysis
+* Section 2 - Interview Notes
+   * Interview guide template
+   * Summarized call notes with a TL;DR section at the top, along with the biographical information of the interviewer.
+* Section 3 - Survey Notes
+   * Survey overview and questions list
+   * Survey results by the cut of data (i.e., question, persona)
+* Appendix
+   * Blinded expert interview list
+ 
+The following table illustrates the client’s deliverable package based on the report type:
+
+
+Offering
+	Discovery Report
+	Validation Report
+	Market Insights Report
+	Market Intelligence Report
+	Executive Summary
+	x
+	x
+	x
+	x
+	1 Page Summaries
+	x
+	x
+	x
+	x
+	Finalized Report (PDF)
+	x
+	x
+	x
+	x
+	Cleansed Transcripts
+	x
+	x
+	x
+	x
+	Live Readout
+	x
+	x
+	x
+	x
+	Survey Summary
+	
+
+	
+
+	x
+	x
+	
+
+Obtain reviews of the deliverable package prior to finalizing and sign-off from the MD. At this point, the Project Lead also obtains scheduling from the client to host the live readout.
+
+
+Outputs: Completed report and availability for the live readout
+20. Deliver Report and Transcript Package
+Once all deliverables have been reviewed, finalized, and signed-off, the Project Lead creates a project Dropbox folder and uploads the deliverable package, including the summaries, report, and cleansed transcripts. The Project Lead then sends the link to the Dropbox folder to the client via email at least 48-hours prior to the final readout. 
+
+
+Output: Deliverable package and transcripts uploaded to Dropbox with link sent to client
+21. Host Readout
+The final readout serves as the finale of the project, where the Liminal project team presents the report to the client. The purpose is to provide the client with key points from the project (the “so what?”), facilitate discussion on the information presented, and help the client understand and interpret the data.
+
+
+Participants include:
+* Project Lead
+* Managing Director
+* Client Team
+
+
+Interim Readout:
+Note that it may be appropriate to host an interim readout with the client. This occurs when there is sufficient raw feedback from the experts to provide an interim update. No materials are needed to be sent to the client as this is strictly a verbal readout. The participants include the Project Lead and Managing Director, along with the Client Team.
+Output: Readout meeting
+22. Upload Documents in Internal Systems
+At the completion of the engagement, the Project Lead is responsible for ensuring that all interview notes and experts are uploaded in Airtable, with the correct tags: People tab for experts and VOC Notes tab for interview notes per expert. The Project Lead also ensures that all relevant materials are uploaded into the project Google drive and that all Asana tasks are completed. 
+
+
+After all documents have been uploaded, the Project Lead, assisted by an Advisory staff member, adds insights gained during the project directly into Link.
+
+
+Output: All project materials in Airtable, Google drive, Link, and Asana tasks are completed
+
+
+Expert Network Management - Detailed Process 
+This section details out the processes needed to build and manage the set of experts in the LAN. While the LAN begins with an active set of experts from prior engagements, it is important to regularly recruit experts for LAN in order to constantly expand our network and as project needs arise. It is also important to review and update information on our active experts (their expertise, geography, contact information) so that our database is always up to date.
+23. Evaluate Potential Experts
+The need to evaluate potential experts may come from an engagement or ad hoc (to build the network, or if there’s an expertise/industry/geography/market segment that needs more experts). The Project Lead works with the Advisory Managing Director and Principals to develop a set of criteria to search for potential experts. Typical criteria for an expert search are experiences in a particular company, industry, market segment, and geography. Expert experiences can span from customers and suppliers of products to functional leadership. The LAN seeks these experts’ knowledge based on their unique experiences as our clients seek that knowledge to gain answers for their business challenges. Criteria can also include specific years of experience in a segment, company, or industry, or a specific level in a company.
+
+
+Once the Liminal team has defined the criteria for the expert needs and identifies a list of experts targeted for the Answer Network (in general) or a specific engagement, the Principal connects with the potential expert (typically via email, LinkedIn, or from an introduction by a common connection, such as a Principal Advisor) to arrange a phone call to determine viability of the expert. Principals vet experts based on the following needs:
+* Expert was/is in a company that we are targeting as part of the engagement and was in relevant level or position 
+* Expert may have broad subject matter expertise in a Liminal landscape segment
+* Expert is a buyer of a digital identity solution and is an decision-making level or position
+* Expert has investment or analysis experience in a Liminal landscape segment
+
+
+The Principals’ vetting process obtains answers to questions such as:
+* What is the expert’s experience or expertise in a Liminal segment/s?
+* How many years of relevant experience does the expert have?
+* Did the expert obtain a level in their relevant company/ies where they are decision-makers, leaders, and strategists?
+* Does the expert have relevant experience in a company that we are targeting in a project?
+* Is the expert’s background and experience relevant to any current or future/potential projects?
+        
+The Principal should capture notes and store the notes in Google drive. If the Principal deems that the expert is viable for the Answer Network, the Principal should ask the expert for a resume/CV, and to confirm their contact information and bill rate, if applicable. The Principal should also provide information to the viable expert on the benefits of being part of the Answer Network such as payment for expert calls, building brand equity, and being able to connect with Liminal advisory team members to share information. For top tier experts, there are additional expert benefits (see step 25: Manage Pool of Experts).
+
+
+If an expert is viable for the project and our network, the following information must be captured by the Principal in Airtable:
+* Name
+* Title
+* Current and previous companies they have worked at 
+* Biography
+* Location
+* Current email address (ideally, personal email, not professional, as they can change companies)
+* Bill rate, if applicable
+* Expertise
+* Project types that the expert is applicable for
+* Region/s of focus
+* Industry/ies of focus
+* Market segment/s
+* Resume attached
+* Active Answer Network status
+
+
+Output: New expert record on Airtable
+
+
+24. Onboard Expert
+
+
+Once the client record is created, the Principal proceeds to complete the compliance step by sending the expert the Expert Services Agreement for execution through Docusign and a 1 page FAQ on being a Liminal Expert. The Principal informs the Operations and Marketing team of a new expert via Slack (#answer-network) so that Operations can send Liminal swag to the expert and the Marketing team can add the expert to our Morning Brief distribution list.
+
+
+
+
+25. Manage Pool of Experts 
+
+
+The Principals serve as the primary PoC for the experts outside of active LAN engagements (where the Project Lead then becomes the primary PoC during scheduling and interviewing). Because digital identity is a highly dynamic industry, Information about experts in the LAN will constantly change. Therefore, the Principals should connect with each expert, at minimum, twice a year outside of LAN projects. Any changes to an expert’s information should be captured. . 
+
+
+Like other multi-sided platforms, we focus on providing the most benefits to the supply side (e.g., the experts being utilized.) To accomplish this, we will provide tiered benefits based on expert loyalty.
+
+
+* All experts
+   * A new income stream
+   * Liminal swag/gifts
+   * Added to our morning brief emails
+
+
+New for 2023
+* Top 25%
+   * Access to Link and our research
+   * Invitations to our private member events (when extra tickets are available)
+   * Asked to participate in our media (SOI and Investing in Identity)
+* Top 5%
+   * Free ticket to our executive summit
+   * Holiday gifts
+
+
+The Operations team is responsible for tracking expert usage and will send out an bi-annual report to leadership to determine the experts that fall into the top tiers and, thus, receive the tier benefits.
+Who’s Who in the LAN
+Team
+
+
+Sales & Marketing
+	Expert Management
+	Delivery
+	Project Management
+	Travis Jarae
+Jennie Berry
+Managing Directors
+Marketing
+	Principals
+Operations
+	Managing Directors
+Advisory Team
+Principals
+Principal Advisors
+Research
+	Travis Jarae
+Kathryn Montilla
+Business Operations
+	
+
+Roles
+
+
+Sales and Marketing
+	Role
+	Responsibilities
+	Managing Director
+	* Sell LAN work to new and current Advisory clients and Members
+* Scope the project with the prospective client
+* Manage accounts for recurring business
+	Marketing
+	* Provide marketing support and sales collateral to support sales of LAN
+	
+
+	
+
+	
+
+
+
+Expert Management
+	Role
+	Responsibilities
+	Principals
+	* Recruit, vet, onboard, and manage experts
+* Ensure expert MCA is signed
+* Enter and update expert details on Airtable
+* Liaise with the Delivery team during an engagement to be the main expert point of contact
+* Identify top tier of experts for Liminal
+	Operations
+	* Send Liminal swag 
+* Track expert usage and provide a bi-annual report
+	
+
+Delivery
+	Role
+	Responsibilities
+	Managing Director
+	* Primary owner of the Advisory function
+* Manage the creation of Proposals and ensure all financial and legal documents are executed
+* Ensure compliance for all parties
+	Project Lead
+	* Planning and execution, including team coordination, of a LAN engagement
+* Liaise with Finance if experts need to be paid
+* Liaise with Finance for GLG
+* Keep track of expert usage
+* Ensure project team abides by Liminal House rules and project norms, including proper documentation and updating of all relevant tools
+	Advisory Team
+	* Execute against project deliverables
+	Research
+	* Support project deliverables
+	Principals
+	* Select the right experts for the projects
+* Expert interview support
+* Serve as experts for engagements
+* Provide engagement consultation                                                        
+	Principal Advisors
+	* Serve as experts for engagements
+	
+
+
+
+Project Management
+	Role
+	Responsibilities
+	CEO
+	* Provide process and engagement consultation
+* Sign off for any standard changes to legal terms, financial terms, or report Proposals        
+	COO
+	* Primary owner of the LAN program and account management 
+* Drive process effectiveness and operational excellence
+* Liaise with Advisory leaders for any issues and point of escalation
+* Ensure expert database is maintained on Airtable
+	
+
+How We Work Together
+To ensure transparency across the organization and all team members potentially involved with the client, it is important that the proper communication channels are used in a consistent manner to promote effective and efficient internal coordination.  The Liminal Onboarding Guide contains detailed information on how we work together and the standard tools we use. Err on the side of over-communicating versus under communicating and usage of the proper channels are  important to make sure the team is informed and aligned. The Advisory team and Account Manager will follow standard operating procedures as it relates to cadence of communication and project management tools. Escalation is handled by the COO and changes to standard protocol must be signed off by the CEO.
+
+
+RACI
+
+
+Activity
+	Description
+	Responsible
+	Accountable
+	Support
+	Consulted
+	Informed
+	LAN Delivery
+	Specific Tasks Include:
+- Scope new projects with clients
+- Gather the internal resources required to meet the project objectives
+- Manage all expert interviews (including interview guide creation)
+- Conduct industry surveys (including survey design)
+- Manage all project elements, as needed (e.g., market sizing)
+- Provide timely review and sign-off on all project deliverables
+- Conduct final deliverable readouts with the client
+	MDs
+	Nik
+	Advisory Team
+Principals
+Operations
+Principal Advisors
+	Travis
+	Operations
+Marketing
+	LAN Sales
+	Specific sales tasks include:
+- Identify sales opportunities
+- Negotiate and close new business
+- Manage accounts for recurring business needs
+	MDs
+	Nik
+	Travis
+Principals
+Kathryn
+Principal Advisors
+	Travis
+Principals
+	Operations
+Marketing
+	LAN Expert Network Management
+	Specific Tasks Include:
+- Identify potential experts within the current Liminal network
+- Identify potential experts through LinkedIn and networking
+- Interview potential experts to assess skillset and aptitude
+- Manage the contracting process (MCA) with each Expert
+- Select the right experts for each project
+- Select our top rated experts for dinners and private events
+	Principals
+	Kathryn
+	Travis
+Principals
+Kathryn
+	Travis
+Principals
+Kathryn
+	Operations
+Marketing
+	LAN Project Management
+	Specific Tasks Include:
+- Develop and manage all aspects of the LAN product launch
+- Ensure LAN delivery, sales, and expert management is completed in-line with the high expectations held for all Liminal products and services
+- Identify continuous improvement opportunities through qualitative and quantitative sources
+	Kathryn
+	Kathryn
+	Operations
+	Travis
+Nik
+MDs
+	Operations
+Marketing
