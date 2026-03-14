@@ -1,11 +1,12 @@
 # PRD: Liminal Networking App
 
 **Status:** Draft — for team review and feedback
-**Version:** 0.4
-**Date:** March 13, 2026
+**Version:** 0.5
+**Date:** March 14, 2026
 **Author:** Andrew Bowden (CPO/CPTO)
 **Source:** Networking App Jam + Travis/Andrew follow-up (March 13, 2026)
 **Reviewers:** Travis Jarae, Jennie Berry, Filip Verley
+**v0.5 Changes:** Incorporated findings from multi-agent critical review (strategy, market, research methodology, requirements, positioning). Major additions: revised competitive landscape, strengthened tollgate methodology, added research bias safeguards, added requirements gaps section, added exit criteria.
 
 ---
 
@@ -43,8 +44,8 @@ The LCS CEO Summit (~87 attendees, 40+ CEOs) creates high-density, high-trust mo
 - LCS CEO Summit: ~87 attendees, 40+ CEOs — proves buyers value curated peer interaction
 - Buyers consistently respond to Liminal research outreach because of existing relationship trust
 - Network interaction data (who connects with whom, what topics drive engagement, which introductions convert) is currently uncaptured and represents a significant intelligence asset
-- Professional networking market is $53B (2023), projected to reach $429B by 2032 at 26% CAGR — vertical-specific, curated networks are the fastest-growing segment
-- No buyer-side community exists in the identity/fraud/cybersecurity vertical (SANS, ISACA, CISO Society are practitioner-focused, not buyer/decision-maker focused)
+- Realistic addressable pool: 3,000-6,000 qualified individuals globally (identity/fraud/cyber decision-makers at enterprise scale). A 200-500 member club captures the most valuable segment.
+- No buyer-side community exists for the **specific** identity/fraud/cyber buyer persona (CPO/CSO/CEO) with Liminal's combination of vertical depth, trust density, and curated buyer-only focus. (Note: broader CISO communities exist — see Section 12 for competitive analysis.)
 
 ---
 
@@ -96,13 +97,15 @@ Travis's framing: shifting Liminal toward a pure tech company identity requires 
 
 The long-term flywheel: at scale, the Liminal network becomes the distribution layer for GTM campaigns, Command intelligence, LCS events, and research surveys. The network creates reach; the platform creates value; the intersection drives revenue.
 
-**Important caveat:** The flywheel requires scale to generate meaningful data. A 200-person club produces thin data — a nice Rolodex, not a data asset. The flywheel is a Phase 3 hypothesis, not a Phase 1 reality. Phase 1 must stand on its own value to members (warm intros, peer benchmarking, exclusive access) without depending on the data flywheel to justify the investment.
+**Important caveat:** The flywheel requires scale to generate meaningful data. A 200-person club produces thin data — a nice Rolodex, not a data asset. The flywheel is a Phase 3 hope, not a Phase 1 reality. The cap is 200-500 members; with 40% WAU, that's ~200 active users generating data. The flywheel only activates at the maximum end of the stated club size. Phase 1 must stand on its own value to members (warm intros, peer benchmarking, exclusive access) without depending on the data flywheel to justify the investment.
+
+**Structural honesty:** Only 2 of the 5 claimed differences from LAN are genuinely structural: (1) value direction (members receive value first) and (2) data governance firewall. The other differences (engagement model, cold start, content approach) are execution choices that the LAN team could also have made. The PRD should not overstate the structural gap between these two bets.
 
 ### The "Data and Relationships" Thesis
 
 Travis's framing: in a world of cheap applications and AI, the two things that hold durable value are **data and relationships.** AI won't replace trust-based human connections until agents make all buying/selling decisions — and even early agentic purchasing experiments show that's far from reliable today.
 
-Andrew cited the Gartner Peer Community data directly to Travis: businesses engaged in Gartner's peer network spend 2x more on Gartner products. This validates the community-as-moat positioning.
+Andrew cited the Gartner Peer Community data directly to Travis: businesses engaged in Gartner's peer network spend 2x more on Gartner products. **[Source needed: this stat could not be publicly verified during review. Must be sourced from Gartner directly or labeled as anecdotal before using in investment discussions.]** If accurate, it validates community-as-moat positioning — but note the structural difference: Gartner layers community on a $6B research/advisory business. Liminal would be building community to create the moat, not leveraging an existing one.
 
 ### Why This, Why Now — and What We're Not Proposing
 
@@ -143,7 +146,7 @@ These products converge but cannot be each other's flywheel when both are pre-la
 - **Buyer App → Network:** Benchmarking users have a natural reason to join the broader peer network.
 - **Shared identity layer:** Both need verified buyer identity — build once, benefit both.
 
-Sequencing decision (Tollgate 1): does the networking app run in parallel with the Buyer App, or does one ship first?
+**Critical decision required at Tollgate 1 (not deferred):** Both products target the same persona (enterprise buyers), both need verified buyer identity, and both propose data flywheels. Running both during a "depth over breadth" strategy creates resource conflict — not just engineering, but leadership attention (Travis, Filip, Andrew). T1 must produce a clear priority decision: if both are going, what gets priority when they conflict? The sequencing decision is not "convergence opportunity" — it is a resource allocation decision.
 
 ---
 
@@ -168,12 +171,21 @@ Independent and institutional analysts covering the identity/fraud/cyber space.
 
 **Sarah — The Enterprise Buyer (Primary)**
 CISO at a Fortune 500 financial institution. Evaluates 3-5 major technology decisions per year. Finds LinkedIn noisy and vendor-dominated. Wants: efficient access to trusted peer perspective, not another place to be sold to.
+- **What she uses today:** Private text threads, Gartner analyst inquiry calls (employer pays), Evanta/Gartner CISO peer groups, CyberRisk Collaborative, GLG/AlphaSights for expert calls, conference networking
+- **Honest "so what?":** Her problem is **time, not access.** She has 45 minutes/week of discretionary peer time, already spoken for. Giving her more access doesn't solve a time problem. The value prop must be *faster, better answers from verified peers* — not *more connections.*
+- **Value prop strength: 5/10.** Introductions solve a real but infrequent problem. Peer benchmarking competes with Gartner Peer Community her employer already pays for. Differentiator is vertical specificity in identity/fraud.
 
 **Marcus — The Active Investor (Secondary)**
 Growth equity partner. Wants early signal on buyer category exploration. Would participate if it gives him buyer access he can't get elsewhere.
+- **What he uses today:** GLG/AlphaSights ($1K-$3K/call, expensed easily), portfolio company networks, Gartner/Forrester, Tegus/Alphasense
+- **Honest "so what?":** Strong pull for initial sign-up, weak pull for sustained engagement. Will take every introduction and give nothing back unless structurally incentivized. Investors as members risk creating the exact "being sold to" dynamic that repels buyers, just from a different angle.
+- **Value prop strength: 6/10.** Near-zero switching cost to join; near-zero switching cost to leave.
 
 **Priya — The Independent Analyst (Secondary)**
 Publishes research on digital identity and fraud. Wants primary source access to practitioners at scale.
+- **What she uses today:** Personal network, LinkedIn DMs (low response), conference networking, vendor PR "customer references"
+- **Honest "so what?":** Straightforward win — curated directory of 200 CISOs who've pre-consented to engage is extremely valuable.
+- **Value prop strength: 8/10.** But creates a value asymmetry risk: Priya extracts from the network the same way Liminal would. If Sarah realizes Priya gets free practitioner access she monetizes through research, the "I'm being used as a product" alarm triggers.
 
 ---
 
@@ -265,11 +277,12 @@ Each phase unlocks the next only when defined criteria are met.
 **Required outputs:**
 - Vendor policy decided (Travis + Filip)
 - Communication governance model defined
-- Monetization direction (free community-as-moat vs. premium tier)
-- Buyer App convergence and sequencing plan
+- Monetization direction (free community-as-moat vs. premium tier) — this cannot remain ambiguous past T1. Free = cost center justified by indirect revenue (must define measurement). Paid = must define what justifies $2-4K/year.
+- **Buyer App resource priority decision** — not a convergence plan, but: if both are going, what gets priority when they conflict? This is a resource allocation decision for leadership attention, not just engineering.
 - Vetting criteria beyond "LCS threshold"
+- **Legal review initiated** — GDPR/CCPA applicability, Terms of Service, content liability for named member posts, data governance compliance. Legal review is the longest-lead dependency; it must start at T1, not wait for T4.
 
-**Gate:** Documented decisions on all five items within 4 weeks. If alignment cannot be reached, pause.
+**Gate:** Documented decisions on all six items within 4 weeks. If alignment cannot be reached, pause.
 
 ### Tollgate 2: Demand Validation (3-4 weeks, parallel with T1)
 
